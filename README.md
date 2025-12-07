@@ -126,6 +126,7 @@ En esta tercera fase, se implementó un proyecto integrador que consolida los co
 
 **Integrantes:** Jaider Morales Bautista, Aleicer Vesga Rueda  
 **Archivo principal:** `Actividad_3.ipynb`
+
 **Link video:** [![Ver video](https://img.shields.io/badge/Ver%20Video-Google%20Drive-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1F-CyM7R5dNGynrQerY-cfZaDPH_Xe_50/view?usp=sharing)
 
 ---
