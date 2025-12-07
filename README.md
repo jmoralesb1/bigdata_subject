@@ -119,3 +119,18 @@ El objetivo principal fue establecer una arquitectura base en la nube (*Bronze L
 - Documentación visual del esquema y análisis comparativo dentro del notebook.
 
 ---
+
+# Actividad 3: Proyecto Integrador
+
+En esta tercera fase, se implementó un proyecto integrador que consolida los conocimientos adquiridos en las actividades anteriores, enfocándose en la organización de datos mediante catálogos, transformaciones avanzadas y visualización analítica.
+
+**Integrantes:** Jaider Morales Bautista, Aleicer Vesga Rueda  
+**Archivo principal:** `Actividad_3.ipynb`
+
+---
+
+## Resumen
+
+La actividad consistió en la creación de un catálogo y esquema estructurado (`salud_digital.vital_sign`) en Databricks para organizar los datos de signos vitales. Se implementaron transformaciones de fecha para extraer componentes temporales (año, mes, día, día de la semana) y se generó un resumen mensual con agregaciones estadísticas. Se realizó una limpieza exhaustiva de datos aplicando validaciones de rangos clínicos, normalización de valores y técnicas de imputación para variables como temperatura corporal, frecuencia cardíaca, saturación de oxígeno y edad. Finalmente, se desarrollaron visualizaciones analíticas utilizando librerías Python (matplotlib, plotly, seaborn) para explorar distribuciones por género, tendencias temporales de temperatura y patrones de mediciones por día de la semana, comparando además las implementaciones en SQL y PySpark para demostrar la equivalencia entre ambos paradigmas.
+
+---
